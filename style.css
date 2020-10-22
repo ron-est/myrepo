@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Barlow', sans-serif;
+    background-color: maroon;
+    color: mintcream;
+}
+
+body {
+    background-color: silver;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
